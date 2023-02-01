@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, my name is Matthews Bastos. I'm a Full Stack Web Developer. Currently living in Brazil 👋
 
-<!--
-**MattBastos/MattBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main Skills:
+- JavaScript
+- TypeScript
+- Node.js (Express, Sequelize)
+- MySQL, MongoDB
+- Docker
+- HTML5 && CSS3
+- React (Redux, Hooks)
+- Integration && Unit Tests
+- React Testing Library (RTL)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Studying:
+- C#
