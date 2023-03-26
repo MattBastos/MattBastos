@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthews Bastos</h1>
 <h3 align="center">A Full Stack Web Developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **C#**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MattBastos](https://github.com/MattBastos)
 
 - 📫 How to reach me **matthewsbasttos@gmail.com**
