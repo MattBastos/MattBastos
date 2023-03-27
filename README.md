@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matthews Bastos</h1>
 <h3 align="center">A Full Stack Web Developer from Brazil.</h3>
 
+- I am a curious person, who likes to solve problems in a creative way and I love collaborative environments.
+- The curiosity and video games that have always been part of my life made me enter the technology field.
+- I'm always in search of knowledge because I don't like stagnation.
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MattBastos](https://github.com/MattBastos)
