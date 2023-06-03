@@ -5,7 +5,7 @@
 - The curiosity and video games that have always been part of my life made me enter the technology field.
 - I'm always in search of knowledge because I don't like stagnation.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Dart/Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MattBastos](https://github.com/MattBastos)
 
