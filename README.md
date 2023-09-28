@@ -1,14 +1,25 @@
 <h1 align="center">Hi 👋, I'm Matthews Bastos</h1>
 <h3 align="center">A Full Stack Web Developer from Brazil.</h3>
 
-- I am a curious person, who likes to solve problems in a creative way and I love collaborative environments.
-- The curiosity and video games that have always been part of my life made me enter the technology field.
-- I'm always in search of knowledge because I don't like stagnation.
+I am a curious individual, passionate about creatively solving challenges, and I love collaborating in inspiring environments. My curiosity and fascination with video games, which have always been a part of my life,
+are the main reasons why I chose to work with technology. I am constantly seeking knowledge because I believe that continuous learning is essential to avoid stagnation.
 
-- 🌱 I’m currently learning **Dart/Flutter**
+As a Full Stack developer, I possess comprehensive skills that enable me to create solutions for both web and mobile platforms. My educational background includes an intensive Full Stack Web Development course at Trybe,
+encompassing over 1,500 hours of classes covering topics such as front-end and back-end development, computer science, software engineering, agile methodologies, and behavioral skills. I completed this program in May 2023.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MattBastos](https://github.com/MattBastos)
+Furthermore, I am currently pursuing a degree in Game Design at Uniasselvi, allowing me to further explore my passion for games and their practical applications.
 
+My additional courses include the successful completion of the "Complete Docker" and "Extreme English" courses on Udemy, demonstrating my commitment to continuous learning.
+
+Regarding my technical skills, I am proficient in a variety of technologies, including JavaScript, TypeScript, Python, Node.js, HTML, CSS, React, React Native, Context API, React Hooks, Redux, React Testing Library (RTL),
+Jest, Next.js, Tailwind CSS, MySQL (Sequelize), MongoDB (Mongoose), and Docker.
+
+I am fluent in Portuguese and advanced in English, both in conversation and in reading and writing.
+
+You can find my personal tech blog at: https://thews-tech.vercel.app/
+
+Link to my GitHub profile:
+https://github.com/MattBastos
 - 📫 How to reach me **matthewsbasttos@gmail.com**
 
 ##
