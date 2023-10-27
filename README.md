@@ -4,7 +4,7 @@
 I am a curious individual, passionate about creatively solving challenges, and I love collaborating in inspiring environments. My curiosity and fascination with video games, which have always been a part of my life,
 are the main reasons why I chose to work with technology. I am constantly seeking knowledge because I believe that continuous learning is essential to avoid stagnation.
 
-As a Full Stack developer, I possess comprehensive skills that enable me to create solutions for both web and mobile platforms. My educational background includes an intensive Full Stack Web Development course at Trybe,
+As a Full Stack developer, I possess comprehensive skills that enable me to create solutions for both web and mobile platforms. My educational background includes an intensive Full Stack Web Development course,
 encompassing over 1,500 hours of classes covering topics such as front-end and back-end development, computer science, software engineering, agile methodologies, and behavioral skills. I completed this program in May 2023.
 
 Furthermore, I am currently pursuing a degree in Game Design at Uniasselvi, allowing me to further explore my passion for games and their practical applications.
@@ -30,11 +30,15 @@ https://github.com/MattBastos
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
     </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+    </a>
    </p>
   
 <h3 align="left">Frontend Development:</h3>
   <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
     </a>
