@@ -16,7 +16,7 @@ Jest, Next.js, Tailwind CSS, MySQL (Sequelize), MongoDB (Mongoose), and Docker.
 
 I am fluent in Portuguese and advanced in English, both in conversation and in reading and writing.
 
-You can find my personal tech blog at: https://thews-tech.vercel.app/
+You can find my personal tech blog at: [ThewsTech](https://www.thewstech.dev/)
 
 Link to my GitHub profile:
 https://github.com/MattBastos
